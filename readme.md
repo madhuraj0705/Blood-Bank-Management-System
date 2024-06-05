@@ -20,11 +20,24 @@ FIRST Download
 
 6. Import bloodbank_db.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http:/bloodbank
+9.Run the script http:/bloodbank
 **LOGIN DETAILS** 
 
 Admin
 user: admin
 pass: admin123
+
+SCREEN SHOTS:
+
+![Picture1](https://github.com/madhuraj0705/Blood-Bank-Management-System/assets/150532928/0fe65f96-c0e7-4a4c-88db-85e494efd9bd)
+
+![Picture2](https://github.com/madhuraj0705/Blood-Bank-Management-System/assets/150532928/5dbdbf9a-9f94-40fe-bbb5-36a022d8d985)
+
+![Picture3](https://github.com/madhuraj0705/Blood-Bank-Management-System/assets/150532928/ccc91f81-dfc0-4d05-a0d0-27002689fbf2)
+
+![Picture4](https://github.com/madhuraj0705/Blood-Bank-Management-System/assets/150532928/7eb7daf6-8cbf-44c5-a423-8b66ee72052d)
+
+![Picture5](https://github.com/madhuraj0705/Blood-Bank-Management-System/assets/150532928/345c5d06-69a9-42e7-b4e3-c9dc840d4cd2)
+
 
 
